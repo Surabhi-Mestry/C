@@ -1,0 +1,57 @@
+            body {
+                background: linear-gradient(#4da6ff, #99ff66);
+                background-image: url(https://th.bing.com/th/id/R.4aecba7b8b257313647984313f389744?rik=GeCsV8qRj3bgrg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fAv6Wcsl.jpg&ehk=SqXjD%2beq3P0pwhLHzIsJQtYt2IcwXYdcsa%2bxyShGt3U%3d&risl=&pid=ImgRaw&r=0);
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
+            h1 {
+                color: white;
+                text-align: center;
+                font-style: italic;
+            }
+            
+            h2 {
+                color: black;
+                text-shadow: -4px -2px white;
+                text-align: center;
+            }
+            
+            h3 {
+                color: black;
+                text-shadow: 4px 4px white;
+            }
+            
+            h4 {
+                color: aliceblue;
+            }
+            
+            ol li {
+                color: aliceblue;
+            }
+            
+            ol>li {
+                color: greenyellow;
+            }
+            
+            .container {
+                background: linear-gradient(to left, black, #ccffff);
+                box-shadow: 2px 4px black;
+            }
+            
+            form {
+                text-align: center;
+                border-radius: 50%;
+            }
+            
+            .borderImg {
+                border-radius: 50%;
+                border-image: 4px;
+            }
+            
+            button {
+                color: white;
+                font-size: 15px;
+                border-radius: 50%;
+                background: #ff3300;
+            }
